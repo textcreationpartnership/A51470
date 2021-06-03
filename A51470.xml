@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The most pleasant history of Reynard the fox. Entered according to order.</title>
+            <title>Reynard the Fox.</title>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51470</idno><idno type="EEBO-CITATION">99833293</idno>
+  <idno type="VID">37769</idno>
+  <idno type="EEBO-PROQUEST">2240900989</idno>
+  
+            <idno type="STC">Wing M2914A</idno>
+            <idno type="STC">ESTC R222055</idno>
+            <idno type="PROQUEST">99833293</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833293e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1783:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The most pleasant history of Reynard the fox. Entered according to order.</title>
+                  <title>Reynard the Fox.</title>
+                  <author>J. S. (John Shirley), fl. 1680-1702, attributed name.</author>
+               </titleStmt>
+               <extent>23, [1] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Conyers, and are to be sold by J. Blare at the Looking-glass on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>A free adaptation and translation of: "Le roman de Renart", in prose; attributed by Wing to John Shirley (fl. 1680-1702), who published a version in heroic verse in 1681 with a slightly different title.</note>
+                  <note>With title page woodcut repeated on p.[24]. Verso of t.p. contains square woodcut of black bird with initials I C in upper corners.</note>
+                  <note>O copy filmed on Early English Books reel 1784 imperfect? Page 23 ends with: Thus ends the first part.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fables, English --  Early works to 1800.</term>
+               <term type="topical_term">French literature --  Translations into English --  Early works to 1800.</term>
+               <term type="topical_term">Tales --  France --  Translations into English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37769:1"/>
+            <p>The most Pleasant HISTORY OF Reynard the FOX.</p>
+            <figure>
+               <p>I C</p>
+            </figure>
+            <p>Entered according to Order.</p>
+            <p>Printed for <hi>J. Conyers,</hi> and are to be sold by <hi>J. Blare</hi> at the <hi>Looking-glass</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:37769:2"/>
+            <p>
+               <figure>
+                  <head>I C</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:37769:2"/>
+            <head>THE History of REYNARD the FOX.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. How a great Feast was proclaimed by the Lyon at his Court, and how the Wolf and his Wife and the Hound, Complain'd against <hi>Reynard</hi> the Fox, and the Event of the same.</head>
+               <p>IT was when the VVoods were clothed with the green Attire, and the Meadows adorned with delicate and fragrant Flowers, with the Birds sweetly Chanting forth their harmonious Songs in the entrance of delicate Spring. The Lyon the King of Beasts, intending to celebrate the Feast of <hi>Orpheus,</hi> in great State and Ceremony, and keeping open Court in his Palace of <hi>Sanden.</hi> He sent forth his Royal Proclamation over his Kingdoms, to all the Beasts whatever, upon pain of Contempt, to resort to Celebrate this great Beast, vvithout delay.</p>
+               <p>Now when this King had assembled his Court, there vvere fevv Beasts found, but made their com<g ref="char:EOLhyphen"/>plaint against the Fox, especially <hi>Isegrim</hi> the Wolf, vvho made the first Complaint, having his Friends and Kindred with him standing before the King, said, Most dread Soveraign Lord the King, I be<g ref="char:EOLhyphen"/>seech, according to your great Povver you vvould take pity on me and my Wife for the great Injures I have suffered by that false Creature <hi>Reynard</hi> the Fox shall it please you, this <hi>Reynard</hi> came into my House and by violence, against the will of my
+<pb n="4" facs="tcp:37769:3"/> Wife, where finding my Children lying in a quiet Couch, he bepist them in so rank a manner, that they became instantly Blind; for which Shame and Villany he hath done me and my Wife I cannot suffer it unregarded, expecting from him Amends, and from your Majesty Iustice.</p>
+               <p>When the Wolf had spoken these Words, there stept forth a little Hound called <hi>Curtise,</hi> who made a grievous Complaint unto the King against the Fox, saying, in the extreme cold Season of the Winter, when the Frost was most violent, he had been kept from all manner of Prey, so that he was half Starved, and having but one poor Pudding left, he the said <hi>Reynard</hi> took it unjustly from him. The Hound had hardly uttered these Words, but up starts <hi>Tibert</hi> the Cat, and falling before the King, said, my Lord the King, I must confess that <hi>Reynard</hi> the Fox is much complained against, yet each of these will find enough for his own Clearing, for concern<g ref="char:EOLhyphen"/>ing <hi>Curtise</hi> the Hound, the Offence was commit<g ref="char:EOLhyphen"/>ted long since, the Pudding was mine, though I com<g ref="char:EOLhyphen"/>plained not, for I got it out of a Mill by Night, when the Miller lay asleep. Vpon these words of the Cat, stept forth the <hi>Panther,</hi> and said it was just and good to Complain against <hi>Reynard</hi> for that all the World knew he was a Thief, Murderer, and Va<g ref="char:EOLhyphen"/>nisher, and was false to every Creature; I shall tell you what I saw him do yesterday to <hi>Kaward</hi> the Hare that standeth in the King's Presence, he promi<g ref="char:EOLhyphen"/>sed him he would teach him to sing <hi>Credo,</hi> and make him a good Chaplain, had I not come by, for
+<pb n="5" facs="tcp:37769:3"/> he had got him between his Legs and had caught <hi>Kaward</hi> by the Throat, and had taken away his Life had I not come by and prevented him; and there<g ref="char:EOLhyphen"/>fore, O my Lord the King, if you suffer him to go unpunished that hath broken your Peace, your Chil<g ref="char:EOLhyphen"/>dren hereafter will bear the slander of his Evil; cer<g ref="char:EOLhyphen"/>tainly <hi>Panther,</hi> said <hi>Isegrim,</hi> you say true.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. How <hi>Grimbard</hi> the Brock spoke in behalf of <hi>Reynard</hi> before the King.</head>
+               <p>
+                  <hi>GRimbard</hi> the Brock who was Sisters Son to <hi>Reynard</hi> the Fox, being moved with much Anger said, <hi>Isegrim</hi> you are malicious, and as the Proverb is, <hi>Malice never speaks well of any:</hi> But what have you to say against my Kinsman <hi>Reynard,</hi> I wish you would adventure, that he that hath done the most injury may die the Death; for I tell you, was he here in Court in Favour as you are, he would make you ask Forgiveness for your Offences, for have not you often bitten and tore my Kinsman with your venomous Teeth? have you forgot how you cheated him with the Plaice, which he threw down from the Cart? you snatching it up left left him nothing but the Bones which you could not eat, and also the Flitch of Bacon whose Tast was so good you alone eat it up, though my Kinsman, got it with the danger of his Life, being caught by the Owner in a Sack: all which Injuries your Ma<g ref="char:EOLhyphen"/>jesty may understand are unsufferable, I must indeed confess my Kinsman lay with his Wife, but it
+<pb n="6" facs="tcp:37769:4"/> was seven years before <hi>Isegrim</hi> Wed her, what cre<g ref="char:EOLhyphen"/>dit gets he by Slandring his Wife when she is not troubled at it?</p>
+               <p>Now comes <hi>Kaward</hi> the Hare, with his Com<g ref="char:EOLhyphen"/>plaint which is but a Trifle, for if he would not learn his Lesson can you blame his School master <hi>Reynard</hi> for giving him due Correction? And last<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, for <hi>Curtise,</hi> that which with great pains had in winter got a pudding when Victuals was scant, had he not Stole it himself, who can blame <hi>Reynard</hi> for taking away stoln goods from a Thief? My Vnkle is a Gentleman and a true Man, and cannot endure falsehood, he doth nothing without the Counsel of a Priest. And since our Lord the King hath made Peace, he never thought hurt to any, he eats but once a day, he chastiseth his Body, weaveth a Shirt of Hair, it is a Year since he eat any Flesh, as I have been informed, he hath forsaken his Castle, a poor Hermitage retains him, he hath distributed his Wealth, and li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es upon Alms, and doth infinite Pennance for his Sins, and looks lean with fasting.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. How <hi>Reynard</hi> the Fox is complained of by the Cock.</head>
+               <p>THus whilst <hi>Grimbard</hi> his Nephew stood Preach<g ref="char:EOLhyphen"/>ing, there was brought upon a Bier by <hi>Chante<g ref="char:EOLhyphen"/>cleer</hi> the Cock, a dead Hen, whom <hi>Reynard</hi> had bit off the Head, and was brought before the King to take knowledge thereof; on one side of the Bier went two sorrowfull Hens being the two fairest Hens between <hi>Holland</hi> and <hi>Arden,</hi> the Hens bore each of
+<pb n="7" facs="tcp:37769:4"/> them a burning Taper, these Hens were Sister to <hi>Coppel</hi> which lay dead on the Bier; in marching they cryed <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lack and well-a-day for the Death of our dear Sister <hi>Coppel:</hi>
+                  </hi> they wept so loud that the Hills gave Eccho to their sad moan. And being come before their King, they kneeled down and spake, Most mighty Lord our King, vouchsafe to hear our Complaint and redress the great Injury that <hi>Rey<g ref="char:EOLhyphen"/>nard</hi> hath done me and my Children, standing here weeping before you. In <hi>April</hi> when the Weather was fair, I being in the height of my Pride because of the great Stock I came off, I which had eight va<g ref="char:EOLhyphen"/>liant Sons and seven Daughters which my Wife had hatched, all which were strong and fat, walking in a Yard well walled and fenc'd about being secure from harm, till <hi>Reynard</hi> that false Traytor envied our happiness, many times made attempts upon us, by Scaling the Walls but was Repulsed, and his Skin <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore by the Dogs; but at last like a Hermit, he came in with a Letter to read sealed with your Majesties Seal, in which I found your Majesty had made peace throughout your whole Realm, and that no Beast or Fowl should hurt one another, and for him he was become a Monk, vowing to perform Pennance for his daily Sins and shewed me his Beads &amp; Books, and his Hair shirt next his Skin, vowing never more to eat Flesh, saying his <hi>Credo</hi> he laid him down un<g ref="char:EOLhyphen"/>der a Thorn. I was very glad to hear this and took no heed, but Clocked my Children together, false <hi>Reynard,</hi> creeping between us and the Gate, suddenly seized on one of my Children and bore it
+<pb n="8" facs="tcp:37769:5"/> away, and having tasted the sweetness of our Flesh he left us not till he had destroyed fifteen of my Children, and yesterday <hi>Coppel</hi> my Daughter which lyeth dead on the Bier, a Kennel of Hounds rescued her from him: This is my sad Complaint, which I beg of your Highness that you would take pity on me and my fair Children.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. The Answer of the King to the Cock's Complaint.</head>
+               <p>THE King hearing all this, spake to, so <hi>Grimbard,</hi> do you hear what Complaints is made against your Vnkle, he hath fasted and prayed well hath he not? I vow if I live a year longer, he shall dearly suffer for this, &amp; for you <hi>Mr. Chantecleer,</hi> I have heard your Request, and for your Daughter that is dead give her Burial, and with solemn Dirge put her into the Earth with worship; in the mean time we will consult with our Lords how to do you Right against the Murtherer; These following Letters were In<g ref="char:EOLhyphen"/>graven on her Tomb-stone:</p>
+               <p>Coppel, Chantecleer's <hi>Daughter, whom</hi> Reynard <hi>the Fox hath slain, lyeth here buried, mourn thou that readst it, for her Death was unjust &amp; lamentable.</hi>
+               </p>
+               <p>After this, the King having consulted his Lords, it was in the end concluded, That <hi>Reynard</hi> should be Summoned to appear before the King by a day prefixt, to answer these foul Crimes layed to his Charge: So <hi>Bruin</hi> the Bear was pitched upon to deliver the message.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="9" facs="tcp:37769:5"/>
+               <head>CHAP. V. How <hi>Bruin</hi> the Bear sped, in his Message to <hi>Reynard</hi> the Fox.</head>
+               <p>
+                  <hi>THE</hi> next morning went <hi>Bruin</hi> the Bear, to seek <hi>Reynard</hi> the Fox, and coming through a dark Forrest which had a By-path where <hi>Reynard</hi> used when he was hunted, he went over a high mountain where <hi>Reynard</hi> had a Castle called <hi>Malepardus,</hi> where he lay both for Defence and Ease; and com<g ref="char:EOLhyphen"/>ing to this Castle he found the Gate shut, which after he had knocked he sate him down on his Tail, and called aloud, Sir <hi>Reynard,</hi> are you at home? I am <hi>Bruin</hi> your Kinsman, come to summon you to Court, to answer several complaints against you, and if you appear not to your Summons, the King hath vowed you shall answer it with your Life; <hi>Reynard</hi> lying close by the Gate, and hearing these words, departed into one of his holes, where he plotted how he might bring the Bear into disgrace, (whom he knevv loved him not,) and also to himself honour; at last he starts out of his hole, and comes forth and said, Dear Vnkle you are very vvelcome, I vvas busie vvhen you spoke, a saying my Evening-Song, Devotion must not be left, I am sorry you have taken this long and painfull Iourney, for cer<g ref="char:EOLhyphen"/>tainly had not you come, I had been at Court to morrow on my ovvn accord; for my part I could wish vve vvere both at Court, for since I have left eating flesh, my Body is much distempered and swelled as if it vvould break: alas dear Cosen, an<g ref="char:EOLhyphen"/>swered the Bear, what meat is it that makes you so
+<pb n="10" facs="tcp:37769:6"/> ill? Vnkle, said he, what will you be the better to know, we poor eat for Necessity, which others eat for Wantonness? But that which I eat was Hony-combs, full and pleasant; and quoth <hi>Bruin,</hi> do you make so slight of Hony-Combs, that is Meat for the greatest Emperor's Fare? Nephew, help me to some of it and I will be your Friend for ever. Nay quoth the Fox, if you be in earnest, I will bring you where you shall have so much of it as you can devour at a Meal. These words pleased the Bear so that he could hardly stand for laughing: well thought the Fox I will lead him where he shall laugh but on one side of his Mouth; the Fox promised him as much Hony as he could eat, at last he brought him to the House of one <hi>Landferet,</hi> this <hi>Landferet</hi> was a sturdy Carpenter, who had in his Yard a great and masty Oak, in which he had struck two Wedges, so that the cleft stood a great way open, the Fox re<g ref="char:EOLhyphen"/>joyced to see it, so with a smiling countenance, he said, Dear Vnkle be careful, for within this Tree is much Hony, try if you can get it, but eat moderately for a Surfeit is dangerous, for which I would not for a World, you should get. Do not think me such a Fool, said the Bear, but I can eat without hurt, it's true, my best Vnkle, I am too bold; I pray you, said <hi>Reynard</hi> enter the Tree; the Bear with hast entered with his two fore-feet, and thrust his Head into the Cleft quite over his Ears, which as soon as the Fox perceived, he pull'd out the Wedges out of the Tree, so that he locked the Bear fast therein, and finding himself destitute of relief, he howled in a most hi<g ref="char:EOLhyphen"/>deous
+<pb n="11" facs="tcp:37769:6"/> manner, so that the Carpenter came hastily out of his house, having in his hand a sharp hook; the Fox standing afar off, said to the Bear, is the Hony good Vnkle? you eat, how do you like it, have a care you do not Surfeit? having thus said, he left him and went to his Castle. By this time <hi>Landferet</hi> seeing the Bear fast, went to his Neigh<g ref="char:EOLhyphen"/>bours and told them that there was a Bear in his Yard fast in a Tree, which when it was known, Men, Women and Children, came with Sticks and Staves, nay the old Beldames came that had never a Tooth in their heads; this great Army put poor <hi>Bruin</hi> in great fear, and hearing a Clamour of the noise, at last rested his head out of the Tree, having left behind him all his Skin and Ears, also after this, the People fell upon the Bear with their Clubs and Staves that they left him almost dead upon the place. At last he made his Escape, bitterly cursing them and the Fox, that brought him to this misery: At last with great Pain and Grief he arrived at the King's Court, where he cried, Behold dread So<g ref="char:EOLhyphen"/>veraign for doing your Royal pleasure I am brought to this disgrace; then said the King, how durst he do this, I swear by my Crown I will take Revenge which shall make this Traytor tremble. Vpon which, were summoned another Council, where it was a<g ref="char:EOLhyphen"/>greed to send <hi>Tibert</hi> the Cat.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. How <hi>Tibert</hi> the Cat was sent by the King to Summon <hi>Reynard</hi> to Court.</head>
+               <p>THen was <hi>Tibert</hi> the Cat sent by the King to sum<g ref="char:EOLhyphen"/>mon <hi>Reynard</hi> to appear under pain of the King's
+<pb n="12" facs="tcp:37769:7"/> highest displeasure; <hi>Tibert</hi> was very loth to under<g ref="char:EOLhyphen"/>dertake this hazardous Iourney, knowing how cruelly Sir <hi>Bruin</hi> the Bear was before used, but daring not to disobey the King's Command, he at last under<g ref="char:EOLhyphen"/>took it, where with much difficulty he at last arri<g ref="char:EOLhyphen"/>ved at <hi>Malepardus,</hi> where he found the Fox stand<g ref="char:EOLhyphen"/>ing before his Castle Gate, to whom <hi>Tibert</hi> thus said, Health to my fair Cousen <hi>Reynard,</hi> the King by me Summons you to Court, which if you neglect, you must expect nothing but sudden death: the Fox re<g ref="char:EOLhyphen"/>plyed, welcome dear Cousen, I obey your command, and wish my Lord and King all happiness, only let me desire of you dear Cousen, to stay all night, and to morrow early I will wait upon you, for there is no Kinsman I can trust but your self; here was Sir <hi>Bruin</hi> the other day, that look'd upon me with that Cruelty that I would not for the Wealth of an Em<g ref="char:EOLhyphen"/>pire trust my Person with him; I will then go with you, were a thousand Sicknesses upon me; <hi>Tibert</hi> re<g ref="char:EOLhyphen"/>plyed, you speak like a Gentleman, I am content to stay: truly in my store I having by me but a Hony-Comb, what think you of it? it is Meat I care not for, I had rather have a mouse, a mouse dear Cousen! here dwells a Priest hard by, hath a Barn full of mice; O dear <hi>Reynard,</hi> lead me thither and I will be your Servant for ever, but said the Fox, do you love mice so well? yes beyond expression, said the Cat.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. How <hi>Tibert</hi> the Cat was deceived by the Fox.</head>
+               <p>THen replyed the Fox, you do but jest, by my Life, said the Cat, I do not; well since it is so, I will
+<pb n="13" facs="tcp:37769:7"/> bring you to a place where you shall have your de<g ref="char:EOLhyphen"/>sire with speed. Now the Night before, the Fox had stole into the Priest's Barn and had stole a fat Hen, which angred the Priest that he had set a snare before the Hole to catch him the next time, which the Fox was aware of; therefore said he to <hi>Tibert,</hi> creep in at this Hole, and you shall have more than you are able to devour, and when your Belly is full, come out and I will wait for you, and to morrow we will go to Court, but stay not too long: But said the Cat, may I go safe, for Priests are subtle? Cousen, said the Fox, I never knew you a Coward before; the Cat ashamed, sprang quickly in, but was quickly caught fast by the Neck, which as soon as the Cat felt he leapt back again, so that the Snare closed and had like to have strangled him, so that he began to exclaim against <hi>Reynard</hi> piteously: The Fox heard all, and rejoyced and in great scorn said, Cousen <hi>Tibert,</hi> love you Mice? but all this while the Catmew'd sadly, the Priest arose out of his Bed, and called up his Servants, saying, the Thief is caught that stole our Hens, the Fox is taken; after that he came to <hi>Tibert</hi> and smote him with a great Staff that he struck out one of the Cat's eyes, the Cat per<g ref="char:EOLhyphen"/>ceiving his Death near, leapt between the Priests Legs and fasten'd with his Claws on the Priests Genitals, which his Wife saw, sware she had rather lost the whole Offering of seven years than to have lost her Husbands Stones: all this while the Fox stood before the Hole, laughed extreamly, and jeered the Priest's Wife, in the mean time the Priest fell into a
+<pb n="14" facs="tcp:37769:8"/> Sound, they all left the Cat, and the Fox and returned home to his Castle, thinking the Cat past recovery; but the poor Cat seeing all his Foes about the Priest busie, she presently knawed the Cord asunder, and made her escape out of the hole, and went roaring and crying to the King's Court, for by the Fox's craft his body was bruised and one of his eyes lost, that when the King beheld him, he grew infinitely angry, and took Counsel once more to be revenged on the Fox.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. How <hi>Brock</hi> was sent to Summon the Fox to Court.</head>
+               <p>THen said the King, go thou Sir <hi>Grimbard,</hi> but take heed, for <hi>Reynard</hi> is subtle and crafty, <hi>Brock</hi> thanked his Majesty and taking his leave, went to <hi>Malepardus,</hi> where he found <hi>Reynard</hi> &amp; his Wife sporting with their young Whelps, then having saluted his Vnkle and Aunt, he said, Take heed, dear Vnkle, how your absence from the Court doth not do you more Mischief than you are aware, for the Complaints against you are many and great, this is the third Summons, and if you delay coming, you and yours will find no mercy, for in three days your Castle will be demolished, and your Kindred made Slaves, and you a publick example; therefore dear Vnkle go with me to Court, I doubt not, but that your discretion will excuse you, and you ap<g ref="char:EOLhyphen"/>pear Innocent. <hi>Reynard</hi> answered, O Nephew you say true, I will go with you, not to answer Offences, I know the Court stands in need of me, I know I
+<pb n="15" facs="tcp:37769:8"/> have many enemies, I will soon clear my Innocency, it is envy of others that hath made me leave the Court, nevertheless Nephew, I will go with you to Court and answer for my self, than hazard the wel<g ref="char:EOLhyphen"/>fair of my Wife and Children, the King is mighty, If he do me injury I will bear it with Patience; and turning to his VVife he said, Dame <hi>Ermelin,</hi> have a care of my Children, if I escape doubt not but my love shall require you: At this she wept and her Chil<g ref="char:EOLhyphen"/>dren howled, for their Lord and Victualler was gone and his Castle unprovided.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. How <hi>Reynard</hi> shrove himself to <hi>Grimbard</hi> the Brock.</head>
+               <p>WHen <hi>Reynard</hi> and <hi>Grimbard</hi> had gone a great way on in their Iourney, <hi>Reynard</hi> said, dear Co<g ref="char:EOLhyphen"/>zen blame me not, if my life be full of care I strive to blot out my sins by Repentance, that my Soul may be quiet; then <hi>Reynard</hi> said, I have grievously offen<g ref="char:EOLhyphen"/>ded against all the Beasts that live, especially my Vnkle <hi>Bruin</hi> the Bear, and <hi>Tibert</hi> the Cat; whom I insnared in a Ginn; I have Trespassed against <hi>Chan<g ref="char:EOLhyphen"/>tecleer</hi> and his Childr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n; nay I have abused the King, I have slandred him and his Queen, I have betrayed <hi>Isegrim</hi> the Wolf, and called him Vnkle though he was none of my Kindred, I made him a Monk of <hi>Es<g ref="char:EOLhyphen"/>mane,</hi> I also became one of that Order only to do him Mischief; I made him bind his Foot in the Bell-rope to teach him to Ring, but the Peal had like to have cost him his Life: taught him to catch Fish, by which he was so finely banged; I lead him to steal
+<pb n="16" facs="tcp:37769:9"/> Bacon at a rich Priest's House; I raised the whole Town against him, and then went where the Priest was at Meat with a fat Hen before him, which I snatched away from him, so the Priest cryed kill the Fox, with these words, he threw his Knife at me, but miss'd me, he pursued me, crying kill the Fox; then I let the Hen go, and sprang through a hole, I got in safety. Now the Priest took up the Hen and espied <hi>Isegrim</hi> the Wolf and cryed, strike Friends, this is he, let him not escape; then the people got together and almost killed the Wolf, for this I ask forgiveness: But the Fox still glancing his Eye towards the Pul<g ref="char:EOLhyphen"/>len, for the ill that was bred in the Bones stuck to his Flesh, and his Eyes wandered after the Pullen, which <hi>Brock</hi> noting, said, Fie dissembling Cousen, why wan<g ref="char:EOLhyphen"/>der your eyes after the Pullen? the Fox quickly re<g ref="char:EOLhyphen"/>plyed, Nephew, you do me injury, for my Eyes wan<g ref="char:EOLhyphen"/>dred not, I was saying a <hi>Pater-noster</hi> for the Souls of the Pullen I have formerly slain, in which Devo<g ref="char:EOLhyphen"/>tion you hinder'd me. Now by this time they drew near the Court, which as soon as the Fox perceived, he quaked for fear, for the many Crimes he had to answer.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. How <hi>Reynard</hi> the Fox came to Court, and how he excused himself before the King.</head>
+               <p>FOR as soon as it was known in Court that <hi>Rey<g ref="char:EOLhyphen"/>nard</hi> the Fox and <hi>Grimbard</hi> his Cousen were come, every one from the highest to the lowest, prepared themselves to accuse him, at which <hi>Reynard</hi>'s Heart quaked, but kept his Countenance, and went as
+<pb n="17" facs="tcp:37769:9"/> proudly as ever, with his Cousen through the stréets, and came as fine into the Court, as if he were the King's Son, and as unconcerned as the most Inno<g ref="char:EOLhyphen"/>cent: and when come before the King, he said, Heaven preserve your Majesty in Glory and Renown; I assure your Highness, that there never came be<g ref="char:EOLhyphen"/>fore you a more Loyaller Subject than my self, and so will die, yet I know there is several in your Court, that seek my Life if they could, but be be<g ref="char:EOLhyphen"/>lieved by your Majesty, but I know you hate Slanderers and Flatterers that swarm about most Courts. Vpon these words, the King said, Peace Traiterous <hi>Reynard,</hi> I know your Falshood and Dissimulation, think you that you can deceive me? Know that the Peace that I commanded you have broken. Vpon this, <hi>Chantecleer</hi> cried out, O what have I lost by this Peace! be still <hi>Chantecleer,</hi> and then he proceeded, saying, Thou meer Devil a<g ref="char:EOLhyphen"/>mongst the Good, with what Face canst thou pretend to love me, when all these before me, whose Wounds stand in Bloody defiance of thee? said the Fox, my Lord, if <hi>Bruin</hi>'s Crown be bloody, if your Majesty send him on a Message, and he steal Honey and receive Wounds, I cannot help it: and if <hi>Tibert</hi> the Car, steal into the Priest's Barn to catch Mice, and lose his Eyes, I cannot help it, O my dread Lord, you may do your Pleasure with me, however I am as Innocent, as the Child un<g ref="char:EOLhyphen"/>born. Vpon this <hi>Bruin</hi> the Bear, <hi>Bellin</hi> the Ram, <hi>Kayward</hi> the Hare, <hi>Isegrim</hi> the Wolf, <hi>Bruel</hi> the Goose, <hi>Baulden</hi> the Ass, <hi>Borel</hi> the Bull, the Weasel
+<pb n="18" facs="tcp:37769:10"/> and <hi>Chantecleer</hi> the Cock, with all their Children, all these with one Noise cryed out against the Fox, and so moved the King, that he caused the Fox to be Arrested and Iudged to Death.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. How <hi>Reynard</hi> the Fox was Judged to Death.</head>
+               <p>UPon this, a Parliament was summoned, and ap<g ref="char:EOLhyphen"/>pear'd, before whom <hi>Reynard</hi> was tryed and Sentenced to be Executed by general consent, tho' he answered all that was objected against him with great Craft, but for all this the Fox was senten<g ref="char:EOLhyphen"/>ced to be Hanged till his Body was dead: at which Sentance <hi>Reynard</hi> hung down his Head with great Sadness. Vpon this, <hi>Grimbard</hi> his Nephew and divers others of his Kindred left the Court weeping, not enduring to see him Executed; took their leave of the King very sad: but when the King noted what gallant young Gentlemen of the Fox's Relations, he said, that though the Fox had some faults, yet he had many Friends, and as the King was thus musing, the Cat said to the Bear, Sir <hi>Bruin</hi> and you Sir <hi>Isegrim,</hi> why do you not execute him? for the Evening is almost come, and you know the Fox's craft, therefore execute him presently, but <hi>Isegrim</hi> answered, your Anger puts out the eye of your Reason, had we a Halter, we would soon dispatch him. <hi>Reynard,</hi> who had been silent a great while, answered, I intreat you shorten my Pain, <hi>Tibert</hi> hath a Cord strong enough, in which himself
+<pb n="19" facs="tcp:37769:10"/> was hanged at the Priest's house; Oh let me be hanged in that by the Priest, and not by my own Kindred, but since you are resolved to be my Hang<g ref="char:EOLhyphen"/>men, delay not, and beware I do not escape; an<g ref="char:EOLhyphen"/>swered <hi>Bruin,</hi> it is the best Counsel I ever heard you give: so <hi>Isegrim</hi> and his Friends guarded the Fox, saith <hi>Reynard,</hi> I fear not Death, I saw my Father dye, and he quickly vanished, Death is familiar to me, I fear it not; then said <hi>Isegrim,</hi> let us go, for his Curse shall not fall on me for delay. When they were come to the place of Execution, the King and Queen, and all the Nobility took their Places, to see the the Fox die: then <hi>Reynard</hi> full of Sorrow, bethinking himself how to escape this danger, and to insnare his proud Enemies, and to draw the King on his side; as he was study<g ref="char:EOLhyphen"/>ing about his Escape, the Wolf said to <hi>Bruin,</hi> now take your full Revenge, for now the day is come we wisht for, <hi>Tibert</hi> quickly ascend, bring the Rope to the Gallows, make a running Noose, for this day you shall have your will, and good Sir <hi>Bruin</hi> see he escape not whilst I raise the Ladder: when all things were ready, the Fox said, now my Heart is heavy, for Death stands grimly before me, I cannot escape: My dread Lord the King, and you my Lady the Queen, grant me this request before I dye, that I may unload my Conscience, that by the assistance of your Prayers I may be made happy hereafter.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="20" facs="tcp:37769:11"/>
+               <head>CHAP. XII. How <hi>Reynard</hi> made his Confession before the King, and was pardoned.</head>
+               <p>NOw every one began to pitty poor <hi>Reynard</hi> and beseeched the King to grant his request, which was done; then the Fox thus spake, Help me ye Powers above, for I see not one here, but I have offended, yet was not this natural to me, for in my Youth I was accounted as vertuous as any living, this know, I used to play with Lambs all day, delighting in their pretty bleating, till at last biting one of them, I tasting the sweetness of her Blood, that I never since could forbear it; this li<g ref="char:EOLhyphen"/>quorish Humour drew me to the Woods among the Goats hearing the bleating of the young Kids, I slew one of them, and afterwards several others: this made me so hardy that I fell to killing of Hens Geese, and most other Pullen; thus my Wicked<g ref="char:EOLhyphen"/>ness increased, <hi>That all was Fish that came to my Net:</hi> After I fell into had Company as <hi>Isegrim,</hi> who pretending to be my Kinsman, we grew at last so in<g ref="char:EOLhyphen"/>timate, that whole flouds of Thefts and Slaugh<g ref="char:EOLhyphen"/>ters he taught me; he stole the great things, and I the small; he murdered the Nobles and I the mean Subjects; when he got a Calf or a Ram, he would hardly allow me the Bones to pick: I speak not this, as though I wanted it, for it was well know, I had more Plate and Iewels than ten Carts could carry. The King hearing of this infinite Treasure, said, <hi>Reynard</hi> where is that Treasure
+<pb n="21" facs="tcp:37769:11"/> you spake of? the Fox answered, May it pleasure you my Lord, indeed it was stoln, but had it not been stoln as it was, it might have cost your Ma<g ref="char:EOLhyphen"/>jesties Life, which Heavens protect. When the Queen hear'd this she started, what is this you spake of, I charge you discover it? to this the Fox with a sad Countenance reply'd, I am willing to discharge my Conscience before I dye, 'Tis true, the King was to have been killed by his own Sub<g ref="char:EOLhyphen"/>jects I must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfess by some of my nearest Kindred: At this the King was much troubled, and said, is this true <hi>Reynard?</hi> you know I have but a short time to live, and do you imagine I would dissemble? upon this, the Queen besought the King to take some pity of the Fox, till he had made a full disco<g ref="char:EOLhyphen"/>very of this Plot, which was soon done: the Fox then proceeded. May it please you, my Father digging in the Ground, found the King's Treasure, which was infinite, he being possest, he grew so proud that he held in scorn all the rest of the Beasts in the Wilderness; at last he caused <hi>Tibert</hi> the Cat to go to <hi>Bruin</hi> the Bear in the Forrest of <hi>Arden</hi> to do him Homage; and promised to set the Crown on <hi>Bruin</hi>'s Head, which he was glad, being very Ambitious; then presently he sent for his Wife, and <hi>Isegrim</hi> the Wolf and <hi>Tibert</hi> the Cat, where it was concluded to murther your Majesty, and to make <hi>Bruin</hi> King, by the assistance of my Father's great Riches; and it hapned that my Nephew <hi>Grim<g ref="char:EOLhyphen"/>bard</hi> being Drunk with Wine discovered this damnable Plot to Dame <hi>Slopard</hi> his Wife, charging
+<pb n="22" facs="tcp:37769:12"/> her upon her Life not to discover it, but she at last disclosed it in confession to my Wife, with the like command of secresie; but she disclosed it to me, not being able to keep her own Counsel, but charged me by the three Kings of <hi>Colen,</hi> not to discover it: It grieved me to think how the Ravenous Bear should dispose you of your Roy<g ref="char:EOLhyphen"/>al Throne, but I being very desirous to find this great Treasure which my Father had hid, I at last by continual watching found it o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, which I and my Wife with great labour removed away; thus the Plot being carried on with great se<g ref="char:EOLhyphen"/>crecy, and having gathered a great Army together, trusting to be all paid out of my Father's Treasury which I had found. All things being in readiness, my Father went to the Cave, but when he found it ransackt, and all taken away, he for madness hanged himself, thus was <hi>Bruins</hi> Treason defeated. Oh my dread Soveraign, who is it hath shewn greater Love to you then my self? the King and Queen hearing all this, and hoping to get this great Treasure from <hi>Reynard,</hi> released him from the Gibbit, and desired him to discover to him, where this great Treasure lay; the Fox replyed, I had rather you should have the Treasure, then my Friends which seek my Life and would devour yours: then said the Queen, fear not <hi>Reynard,</hi> the King shall save your Life; then said the King, Madam will you believe the Fox, know you not his Quality to lye and Steal? now my dear Lord, you may believe him, well Madam, for this time
+<pb n="23" facs="tcp:37769:12"/> I will be ruled by you, and pardon him all his Offences, with this proviso, that if he ever offend again, he and all his Posterity shall be destroyed.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. How the King forgave <hi>Reynard</hi> the Fox all his Faults, and made him the greatest in his Land, and his return home with all his Kin<g ref="char:EOLhyphen"/>dred.</head>
+               <p>THen the King told <hi>Reynard,</hi> that he should owe him all Homage and Duty: and for your Dis<g ref="char:EOLhyphen"/>coveries, I make you one of the Lords of my Coun<g ref="char:EOLhyphen"/>se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, take heed you do nothing unworthy of the great Trust I put in you, hoping you will do Iustice to all persons, and be a Star whose Lustre outshines all others, remembring the Moral you told me, and be a lover of Truth and Equity; henceforth I will be Governed by your Wisdom, and under me you shall be Chief Governour.</p>
+               <p>All <hi>Reynards</hi> Friends humbly thanked the King, to the number of forty, having took their leaves of the King, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt with the Fox who was as glad that he had sped so well, having caused <hi>Tibert</hi> the Cat and <hi>Bruin</hi> the Bear to be destroyed, who sought his Life. After some Travel, they all arrived at his Castle of <hi>Malepardus</hi> where was great feasting and rejoycing at <hi>Reynard</hi>'s good Fortune, they all at last took their leaves of each other, <hi>Reynard</hi> thank<g ref="char:EOLhyphen"/>ed them for their love and honour to him, protesting for ever after to remain their friend and servant: then they shook hands and departed.</p>
+            </div>
+            <trailer>Thus ends the First Part.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:37769:13"/>
+            <p>
+               <figure>
+                  <p>I C</p>
+               </figure>
+            </p>
+            <pb facs="tcp:37769:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
